@@ -1,1 +1,4 @@
-# Data-Visualization-Power-BI
+Hi, there are 3 data files(from Kaggle) along with their PowerBI desktop data visualization files uploaded here. While learning data cleaning and visualization along with R programming language in Data Analytics, these were done to improve my working knowledge.
+Superstore - The excel worksheet contains sales data of Superstore from 2015 in the USA. The .pbix file with the same name has the data visualized.
+CircleOfLife - The excel worksheet contains data around the attributes that impact the quality of life and the course of action a person has to take to reach their goals. This datasheet has many missing fields because they were wrangled with as a part of data cleaning. The .pbix file with the same name has a complex visualization showcased.
+Sample - This data file and power bi file are still a work in progress.
